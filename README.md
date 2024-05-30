@@ -5,8 +5,7 @@ This is a simple GUI calculator built using Python and Tkinter. With the guide o
 
 This project is a graphical user interface (GUI) calculator built using Python, Tkinter, Pillow (PIL), and SymPy. It supports basic arithmetic operations, and advanced functions like factorials and square roots, and uses a visually appealing interface for user interaction.
 
-![Caculator](./Screenshot%20(339).png "GUI Calculator")
-![Caculator](./Screenshot%20(341).png "GUI Calculator")
+![Caculator](./calculator(0).png "GUI Calculator")
 
 ### Features
 
@@ -22,6 +21,8 @@ This project is a graphical user interface (GUI) calculator built using Python, 
 - **calculator.py**: The main script containing the `Calculator` class, which handles the GUI layout, button configurations, event bindings, and calculation logic.
 - **requirements.txt**: Lists the necessary Python packages to run the calculator.
 - **README.md**: Detailed documentation of the project, including features, setup instructions, and usage.
+
+![Caculator](./calculator(1).png "GUI Calculator")
 
 ### File Descriptions
 
