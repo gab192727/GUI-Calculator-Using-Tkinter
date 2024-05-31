@@ -49,4 +49,9 @@ This project is a graphical user interface (GUI) calculator built using Python, 
 2. **requirements.txt**: Specifies the Python packages required to run the calculator:
    - `Pillow`: Used for handling images.
    - `SymPy`: Used for symbolic mathematics, ensuring accurate calculations.
+   - `tkinter`: Used for the graphical user interface.
+   - 'math': used for accurate calculation of square root and factorial.
+   - 're': used for finding all the digits and operators for easy evaluation
+   - 'sympy': used for evaluation and correct handling of parenthesis.
+
 
