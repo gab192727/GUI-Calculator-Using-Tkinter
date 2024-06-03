@@ -14,7 +14,7 @@ class Calculator:
         self.font = font.Font(family='Times_New_Roman')
       
         # Change the path based on the location of the image you want to add as an icon.
-        self.image_path_icon = "C:\\Users\\er\\Documents\\gab.py\\download (6).jpg"
+        self.image_path_icon = "Calculator-icon.png"
         self.icon = ImageTk.PhotoImage(Image.open(self.image_path_icon))
         self.root.iconphoto(False, self.icon)
 
